@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    " I enjoy learning about new technologies, my curiosity took me to create a club in my university, in this club I developed my self-learning skills and then shared this knowledge with my friends. I love to resolve problems with technology.",
   avatarUrl: "https://avatars.githubusercontent.com/u/68799786?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "Present",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "create applications for banks that are innovating in the finance industry with blockhain",
     },
     {
       company: "Wiggi",
@@ -80,7 +80,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2022",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "Analyze system requirements, coordinate developers, create software using Amazon Web Services, Node.js, Golang, Docker, Python, MariaDB.",
     },
     {
       company: "GoNet",
@@ -102,7 +102,7 @@ export const RESUME_DATA = {
       start: "2020",
       end: "2021",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "Implement Artificial intelligence, create apps developed on Amazon Web Services, Azure , Google Cloud Platform, Azure functions, docker, golang, Python, Node.js and VueJS.",
     },
     {
       company: "Univerisad Nacional Autonoma de Mexico (UNAM)",
@@ -112,7 +112,7 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "2018",
       end: "2020",
-      description: "Creating and testing software for LTE base stations",
+      description: "Coordinate, develop, and maintain systems of different areas based on Node.js, VueJS, Linux, Python,PHP, git.",
     },
   ],
   skills: [
